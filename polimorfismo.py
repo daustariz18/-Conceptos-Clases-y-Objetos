@@ -6,6 +6,7 @@ class Coche():
 
 class Moto():
 
+
     def desplazamiento(self):
         print("me desplazo utilizando 2 ruedas")
 
